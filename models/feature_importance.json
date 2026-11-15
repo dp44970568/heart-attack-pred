@@ -1,0 +1,121 @@
+{
+  "clinical": [
+    {
+      "feature": "thal",
+      "label": "Thallium Stress Test Scintigraphy",
+      "importance": 0.1593
+    },
+    {
+      "feature": "cp",
+      "label": "Chest Pain Type",
+      "importance": 0.1536
+    },
+    {
+      "feature": "ca",
+      "label": "Major Vessels Colored by Fluoroscopy (0-3)",
+      "importance": 0.1379
+    },
+    {
+      "feature": "thalach",
+      "label": "Maximum Heart Rate Achieved (bpm)",
+      "importance": 0.1185
+    },
+    {
+      "feature": "oldpeak",
+      "label": "ST Depression (Oldpeak in mm)",
+      "importance": 0.1012
+    },
+    {
+      "feature": "exang",
+      "label": "Exercise-Induced Angina",
+      "importance": 0.0693
+    },
+    {
+      "feature": "age",
+      "label": "Age (years)",
+      "importance": 0.0682
+    },
+    {
+      "feature": "chol",
+      "label": "Serum Cholesterol (mg/dl)",
+      "importance": 0.0488
+    },
+    {
+      "feature": "trestbps",
+      "label": "Resting Blood Pressure (mm Hg)",
+      "importance": 0.0474
+    },
+    {
+      "feature": "slope",
+      "label": "Slope of Peak Exercise ST Segment",
+      "importance": 0.0455
+    },
+    {
+      "feature": "sex",
+      "label": "Biological Sex",
+      "importance": 0.0326
+    },
+    {
+      "feature": "restecg",
+      "label": "Resting ECG Result",
+      "importance": 0.0126
+    },
+    {
+      "feature": "fbs",
+      "label": "Fasting Blood Sugar > 120 mg/dl",
+      "importance": 0.005
+    }
+  ],
+  "routine": [
+    {
+      "feature": "cp",
+      "label": "Chest Pain Type",
+      "importance": 0.2428
+    },
+    {
+      "feature": "oldpeak",
+      "label": "ST Depression (Oldpeak in mm)",
+      "importance": 0.2114
+    },
+    {
+      "feature": "exang",
+      "label": "Exercise-Induced Angina",
+      "importance": 0.1821
+    },
+    {
+      "feature": "thalach",
+      "label": "Maximum Heart Rate Achieved (bpm)",
+      "importance": 0.1087
+    },
+    {
+      "feature": "age",
+      "label": "Age (years)",
+      "importance": 0.0839
+    },
+    {
+      "feature": "sex",
+      "label": "Biological Sex",
+      "importance": 0.0489
+    },
+    {
+      "feature": "trestbps",
+      "label": "Resting Blood Pressure (mm Hg)",
+      "importance": 0.0479
+    },
+    {
+      "feature": "chol",
+      "label": "Serum Cholesterol (mg/dl)",
+      "importance": 0.0457
+    },
+    {
+      "feature": "restecg",
+      "label": "Resting ECG Result",
+      "importance": 0.0173
+    },
+    {
+      "feature": "fbs",
+      "label": "Fasting Blood Sugar > 120 mg/dl",
+      "importance": 0.0113
+    }
+  ]
+}
